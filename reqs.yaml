@@ -1,0 +1,22 @@
+Features:
+  - Authentication
+  - Cabins
+  - Bookings
+  - Check in / out
+  - Guests
+  - Dashboard
+  - Settings
+
+Pages:
+  - Dashbaord /dashboard
+  - Bookings /bookings
+  - Cabins /cabins
+  - Checkin /checkin/:bookingId
+  - App Settings /settings
+  - Signup /users
+  - Login /login
+  - Account Settings /account
+
+Client Side Rendering (CSR) or Server-Side Rendering (SSR):
+We can do CSR with vanilla react for SPAs
+SSR with frameworks like Next.js or Remix for Multi Page Apps (MPAs)
